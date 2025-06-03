@@ -1,9 +1,9 @@
-- 👋 Hi, I'm TerryAnne;a computer scientist. 
+- 👋 Hi, I'm TerryAnne;a software developer. 
 - 👀 I’m interested in coding and majorly tech as it provides solutions to the real-world scenario problems.
-- 🌱 I’m currently learning web development and looking forward to exploring cybersecurity.
-- 💞️ I’m looking to collaborate on javascript projects as well as those in cybersecurity.
-- 📫 How to reach me You can contact me via my email wanjiruteryanne55@gmail.com 
-- ⚡ Fun fact:JavaScript was created in just 10 days in 1995 by Brendan Eich while working at NetScape :)
+- 🌱 I’m currently learning  Flutter mobile development (PLP Africa) and developing Blockchain apps.
+- 🔍 Always open to: Collaboration and Learning new stacks
+ 
+
 
 <!---
 Tawmie02/Tawmie02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
