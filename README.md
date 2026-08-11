@@ -25,12 +25,12 @@ Build → Learn → Improve → Repeat. 🚀
 ### 📂 Experience & Projects
 Here are some of the projects I've worked on while learning and experimenting with different technologies:
 
-🚀 SparkRepo — Exploring decentralized funding and blockchain-based workflows
-💰 PennyPro — Personal finance and budgeting application
-🌱 FieldWatch — Technology-driven approach to agricultural monitoring
-🔗 KaziChain / PayTrace — Blockchain-focused project exploring transparent transactions
-🧺 E-Laundry System — Full-stack laundry management system
-📱 Budgetea — Budgeting and expense management application
+- 🚀 SparkRepo — Exploring decentralized funding and blockchain-based workflows
+- 💰 PennyPro — Personal finance and budgeting application
+- 🌱 FieldWatch — Technology-driven approach to agricultural monitoring
+- 🔗 KaziChain / PayTrace — Blockchain-focused project exploring transparent transactions
+- 🧺 E-Laundry System — Full-stack laundry management system
+- 📱 Budgetea — Budgeting and expense management application
 ---
 
 ### 📫 Connect with me
