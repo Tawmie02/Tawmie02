@@ -1,11 +1,14 @@
 # Hi, I'm TerryAnne; a software developer. 
 
-- 👀 **I’m interested in:** Coding and majorly tech as it provides solutions to real-world scenario problems. I am passionate about how software can solve everyday challenges through secure and efficient design.
+- 👀 **I’m interested in:** I enjoy turning ideas into working products and learning by building. My interests have taken me across software development, AI, blockchain, databases, networking, and distributed systems.
 
-- 🌱 **I’m currently:** I am deepening my skills in **mobile development** and exploring the world of **Blockchain apps** using Rust and Soroban.
+- 🌱 **I’m currently:** Currently, I'm diving deeper into AI Agents, RAG, MCP, and intelligent applications, while continuing to explore the world of **Blockchain apps** using Rust and Soroban.
 
-- 🔍 **Always open to:** Collaboration, learning new stacks, and contributing to projects that prioritize security and user impact.
+- 🔍 **Always open to:** I'm always interested in connecting with developers, builders, students, and communities working on interesting technology.
 
+📫 Feel free to explore my repositories, follow my work, or reach out if you'd like to collaborate on a project.
+
+Build → Learn → Improve → Repeat. 🚀
 ---
 
 ### 🛠️ My Tech Focus
@@ -14,16 +17,20 @@
 | **Mobile** | Flutter, Dart |
 | **Frontend** | HTML, CSS, TypeScript, React, Tailwind CSS |
 | **Blockchain** | Rust, Soroban (Stellar) |
-| **Academic** | Java (Data Structures & ADTs) |
-| **Environment** | Cursor AI (AI-Integrated Development) |
+| **Academic** | Java (Data Structures & ADTs), Python |
+| **Environment** | Cursor AI (AI-Integrated Development), Antigravity |
 
 ---
 
 ### 📂 Experience & Projects
-1. **Solo Refactoring:** Taking key features from past collaborations and rebuilding them independently to strengthen my skills.
-2. **Blockchain Foundations:** Building and deploying my first individual smart contracts on the Soroban network.
+Here are some of the projects I've worked on while learning and experimenting with different technologies:
 
-
+🚀 SparkRepo — Exploring decentralized funding and blockchain-based workflows
+💰 PennyPro — Personal finance and budgeting application
+🌱 FieldWatch — Technology-driven approach to agricultural monitoring
+🔗 KaziChain / PayTrace — Blockchain-focused project exploring transparent transactions
+🧺 E-Laundry System — Full-stack laundry management system
+📱 Budgetea — Budgeting and expense management application
 ---
 
 ### 📫 Connect with me
@@ -32,9 +39,6 @@
 
 ---
 
-### ⚡ Fun Fact
-I recently switched my entire development environment from VS Code to Cursor to explore how AI can help me write more secure and optimized code!
- 
 
 
 <!---
